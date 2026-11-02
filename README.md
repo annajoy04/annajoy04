@@ -1,4 +1,3 @@
-
 # Hi, I'm Anna Joy 👋
 
 **Aspiring SOC / Cyber Security Analyst** · MSc Cyber Security
@@ -14,6 +13,14 @@ I'm an early-career cyber security professional who has just completed an MSc in
 
 ---
 
+### 🧰 Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=py,js,html,css,mysql,nodejs,linux,windows,git,github,vscode)
+
+**Security:** Wazuh / SIEM · MITRE ATT&CK · Wireshark · Nmap · Microsoft 365 · Active Directory · ISO 27001 · OWASP
+
+---
+
 ### 📌 Featured project
 **[ipi-multi-agent-experiment](https://github.com/annajoy04/ipi-multi-agent-experiment)** — my MSc research
 Investigating the security of multi-flow AI agent systems against **indirect prompt injection** (the #1 risk in the OWASP Top 10 for LLM Applications). Built a reproducible three-agent pipeline and measured how injection attacks propagate across agent handovers — a provenance-aware defence cut attack success from **44% to 6%**. Python · Llama · Ollama.
@@ -25,8 +32,15 @@ Investigating the security of multi-flow AI agent systems against **indirect pro
 
 ---
 
-### 🧰 Skills & tools
-`Wazuh / SIEM` · `MITRE ATT&CK` · `Wireshark` · `Nmap` · `Python` · `Microsoft 365` · `Active Directory` · `Networking (TCP/IP, DNS, DHCP)` · `ISO 27001` · `OWASP`
+### 📊 GitHub Stats
+
+![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=annajoy04&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=annajoy04&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annajoy04&layout=compact&theme=tokyonight)
+
+---
 
 ### 📜 Certifications (in progress)
 CompTIA Security+ (SY0-701) · Microsoft SC-200 (Security Operations Analyst)
