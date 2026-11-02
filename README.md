@@ -19,6 +19,16 @@ I'm an early-career cyber security professional who has just completed an MSc in
 
 **Security:** Wazuh / SIEM · MITRE ATT&CK · Wireshark · Nmap · Microsoft 365 · Active Directory · ISO 27001 · OWASP
 
+### 🔐 Security Tools & SIEM
+
+![Wazuh](https://img.shields.io/badge/Wazuh-005792?style=for-the-badge&logo=wazuh&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C6282B?style=for-the-badge&logo=mitreattack&logoColor=white)
 ---
 
 ### 📌 Featured project
