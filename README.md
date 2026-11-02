@@ -12,24 +12,32 @@ I'm an early-career cyber security professional who has just completed an MSc in
 - **Application & AI Security** — secure development, prompt injection, OWASP Top 10
 
 ---
-
 ### 🧰 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=py,js,html,css,mysql,nodejs,linux,windows,git,github,vscode)
+**Languages**
+![](https://skillicons.dev/icons?i=py,js,html,css,mysql,nodejs,bash)
 
-**Security:** Wazuh / SIEM · MITRE ATT&CK · Wireshark · Nmap · Microsoft 365 · Active Directory · ISO 27001 · OWASP
+**Platforms & Tools**
+![](https://skillicons.dev/icons?i=linux,kali,ubuntu,windows,git,github,vscode,figma,gcp,azure,firebase,powershell)
 
-### 🔐 Security Tools & SIEM
+**Security & SIEM**
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-005792?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C6282B?style=for-the-badge&logo=mitreattack&logoColor=white)
----
+
+**Also using**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)
+
 
 ### 📌 Featured project
 **[ipi-multi-agent-experiment](https://github.com/annajoy04/ipi-multi-agent-experiment)** — my MSc research
